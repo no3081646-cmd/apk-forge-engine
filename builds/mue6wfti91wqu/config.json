@@ -1,0 +1,14 @@
+{
+  "appName": "projectwilly",
+  "packageId": "com.contoh.aplikasi",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "mode": "url",
+  "url": "https://roexdeployy.vercel.app/",
+  "orientation": "unspecified",
+  "themeColor": "#101014",
+  "permissions": [
+    "ACCESS_NETWORK_STATE",
+    "ACCESS_WIFI_STATE"
+  ]
+}
