@@ -1,0 +1,1 @@
+{"appName":"Test Web App","packageId":"com.test.webapp","versionName":"1.0.0","versionCode":1,"mode":"url","url":"https://example.com","orientation":"unspecified","themeColor":"#101014","permissions":["ACCESS_NETWORK_STATE","VIBRATE","CAMERA","ACCESS_FINE_LOCATION"]}
