@@ -1,0 +1,15 @@
+{
+  "appName": "my app",
+  "packageId": "com.am.aplikasi",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "mode": "url",
+  "url": "https://www.alightpro.my.id",
+  "orientation": "unspecified",
+  "themeColor": "#000000",
+  "permissions": [
+    "ACCESS_NETWORK_STATE",
+    "ACCESS_WIFI_STATE",
+    "POST_NOTIFICATIONS"
+  ]
+}
